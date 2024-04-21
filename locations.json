@@ -1,0 +1,466 @@
+[
+  {
+    "lat": "29.767141",
+    "lng": "-95.397692",
+    "title": "JD Fields Headquarters",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 0
+  },
+  {
+    "lat": "32.783258",
+    "lng": "-96.797373",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 1
+  },
+  {
+    "lat": "33.658925",
+    "lng": "-118.0034596",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 2
+  },
+  {
+    "lat": "33.9478796",
+    "lng": "-117.9704489",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 3
+  },
+  {
+    "lat": "39.7322457",
+    "lng": "-104.9908209",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 4
+  },
+  {
+    "lat": "28.5",
+    "lng": "-81.522",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 5
+  },
+  {
+    "lat": "27.083254",
+    "lng": "-82.434796",
+    "title": "JD Fields Engineering Office",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 6
+  },
+  {
+    "lat": "27.770808",
+    "lng": "-82.6403116",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 7
+  },
+  {
+    "lat": "34.1843579",
+    "lng": "-84.1250941",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 8
+  },
+  {
+    "lat": "30.447437",
+    "lng": "-90.085232",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 9
+  },
+  {
+    "lat": "41.8832947",
+    "lng": "-71.0925633",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 10
+  },
+  {
+    "lat": "47.274620056152344",
+    "lng": "-122.46187591552734",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 11
+  },
+  {
+    "lat": "41.665941",
+    "lng": "-88.440913",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 12
+  },
+  {
+    "lat": "41.353190",
+    "lng": "-72.387700",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 13
+  },
+  {
+    "lat": "45.502035",
+    "lng": "-73.569341",
+    "title": "JD Fields Offices",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 14
+  },
+  {
+    "lat": "30.703385",
+    "lng": "-88.064240",
+    "title": "JD Fields Pile Equipment",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 15
+  },
+  {
+    "lat": "33.900300",
+    "lng": "-118.264893",
+    "title": "ALAMEDA PIPE & FAB \u2013 R&W, PIPE & STRUCTURAL STEEL FABRICATION",
+    "type": "facility",
+    "ungrouped": "false",
+    "id": 16
+  },
+  {
+    "lat": "30.1811984",
+    "lng": "-85.7331003",
+    "title": "Berg Pipe - DSAW Pipe Mill (Domestic)",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 17
+  },
+  {
+    "lat": "34.0778099",
+    "lng": "-117.4931848",
+    "title": "CALIFORNIA STEEL INDUSTRIES - HFI PIPE MILL",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 18
+  },
+  {
+    "lat": "33.962296",
+    "lng": "-81.052057",
+    "title": "CMC Commercial Metals \u2013 Threaded Bar Systems",
+    "type": "e_manu",
+    "ungrouped": "true",
+    "id": 19
+  },
+  {
+    "lat": "28.050850",
+    "lng": "-97.490123",
+    "title": "DF HDM Spiralweld Mill \u2013 Spiralweld Pipe, R&W Cans, Fabrication, Coatings",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 20
+  },
+  {
+    "lat": "40.212556",
+    "lng": "-76.802381",
+    "title": "Dura-Bond Industries - DSAW Pipe Mill (Domestic)",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 21
+  },
+  {
+    "lat": "32.461991",
+    "lng": "-97.028661",
+    "title": "Gerdau Ameristeel \u2013 Hot Rolled Sheet Piles (Domestic)",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 22
+  },
+  {
+    "lat": "37.186605",
+    "lng": "-77.450571",
+    "title": "Gerdau Ameristeel \u2013 Hot Rolled Sheet Piles (Domestic)",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 23
+  },
+  {
+    "lat": "30.230170",
+    "lng": "-89.575919",
+    "title": "Jindal Tubular USA, LLC - HSAW Pipe Mill (Domestic)",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 24
+  },
+  {
+    "lat": "29.698564",
+    "lng": "-94.899861",
+    "title": "JSW Steel USA - DSAW Pipe Mill (Domestic)",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 25
+  },
+  {
+    "lat": "35.9868401",
+    "lng": "-96.0358196",
+    "title": "Paragon Industries Incorporated - HFW Pipe Mill (Domestic)",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 26
+  },
+  {
+    "lat": "41.121810",
+    "lng": "-85.338327",
+    "title": "Steel Dynamics Incorporated \u2013 H Piles & Structurals (Domestic)",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 27
+  },
+  {
+    "lat": "28.050850",
+    "lng": "-97.490134",
+    "title": "Steel Dynamics Incorporated \u2013 Steel Coil (Domestic)",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 28
+  },
+  {
+    "lat": "35.933211",
+    "lng": "-89.7604537",
+    "title": "Tenaris - HFW Pipe Mill (Domestic)",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 29
+  },
+  {
+    "lat": "51.457777",
+    "lng": "-3.152764",
+    "title": "HDM \u2013 Spiralweld, R&W Pipe Pile Systems (International)",
+    "type": "e_manu",
+    "ungrouped": "true",
+    "id": 30
+  },
+  {
+    "lat": "38.2383376",
+    "lng": "22.9582785",
+    "title": "Corinth Pipeworks - DSAW Pipe Mill",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 31
+  },
+  {
+    "lat": "52.409379",
+    "lng": "5.239253",
+    "title": "Gooimeer \u2013 (HMZZ Combined Wall Systems)",
+    "type": "e_dist",
+    "ungrouped": "true",
+    "id": 32
+  },
+  {
+    "lat": "54.65",
+    "lng": "-1.23",
+    "title": "Liberty Steel Hartlepool - DSAW Pipe Mill ",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 33
+  },
+  {
+    "lat": "50.8679319",
+    "lng": "8.0643859",
+    "title": "Mannesmann Line Pipe - HFW Pipe Mill",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 34
+  },
+  {
+    "lat": "54.68",
+    "lng": "-1.2",
+    "title": "TATA Steel UK Limited - HFW Pipe Mill",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 35
+  },
+  {
+    "lat": "-22.8123609",
+    "lng": "-43.3780108",
+    "title": "Apolo Tubulars - ERW Pipe Mill",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 36
+  },
+  {
+    "lat": "26.9028133",
+    "lng": "-101.4645623",
+    "title": "Procarsa - DSAW Pipe Mill",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 37
+  },
+  {
+    "lat": "10.3717377",
+    "lng": "-75.4677866",
+    "title": "Tubocaribe",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 38
+  },
+  {
+    "lat": "25.713884",
+    "lng": "-100.3105162",
+    "title": "Tubacero - DSAW Pipe Mill",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 39
+  },
+  {
+    "lat": "41.066687",
+    "lng": "122.822597",
+    "title": "Anshan Zizhu Heavy Steel Company \u2013 Hot Rolled Piling Products (International)",
+    "type": "e_manu",
+    "ungrouped": "true",
+    "id": 40
+  },
+  {
+    "lat": "36.817633",
+    "lng": "34.667096",
+    "title": "HDM \u2013 Spiralweld, R&W Pipe Pile Systems (International)",
+    "type": "e_manu",
+    "ungrouped": "true",
+    "id": 41
+  },
+  {
+    "lat": "35.4223962",
+    "lng": "129.3299499",
+    "title": "Hyundai RB - DSAW Pipe Mill",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 42
+  },
+  {
+    "lat": "36.537139",
+    "lng": "126.2333577",
+    "title": "Husteel Industry Group",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 43
+  },
+  {
+    "lat": "34.5110761",
+    "lng": "133.0603928",
+    "title": "JFE Steel Corporation - DSAW Pipe Mill",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 44
+  },
+  {
+    "lat": "35.3498448",
+    "lng": "139.8574574",
+    "title": "Nippon Steel Corporation",
+    "type": "manu",
+    "ungrouped": "true",
+    "id": 45
+  },
+  {
+    "lat": "37.5502129",
+    "lng": "126.9116593",
+    "title": "Seah Steel",
+    "type": "manu",
+    "ungrouped": "false",
+    "id": 46
+  },
+  {
+    "lat": "30.815970",
+    "lng": "-88.220600",
+    "title": "JD Fields Storage Yard",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 47
+  },
+  {
+    "lat": "49.195640",
+    "lng": "-122.962640",
+    "title": "JD Fields Storage Yard",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 48
+  },
+  {
+    "lat": "37.949010",
+    "lng": "-121.355920",
+    "title": "JD Fields Storage Yard",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 49
+  },
+  {
+    "lat": "34.071470",
+    "lng": "-117.375780",
+    "title": "JD Fields Storage Yard",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 50
+  },
+  {
+    "lat": "28.214270",
+    "lng": "-82.169970",
+    "title": "JD Fields Storage Yard",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 51
+  },
+  {
+    "lat": "45.502035",
+    "lng": "-73.569341",
+    "title": "JD Fields Storage Yard",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 52
+  },
+  {
+    "lat": "40.729684",
+    "lng": "-75.35926",
+    "title": "JD Fields Storage Yard",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 53
+  },
+  {
+    "lat": "29.770423",
+    "lng": "-95.170374",
+    "title": "JD Fields Storage Yard",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 54
+  },
+  {
+    "lat": "29.777318",
+    "lng": "-94.896783",
+    "title": "JD Fields Storage Yard",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 55
+  },
+  {
+    "lat": "41.7230283",
+    "lng": "-87.5362221",
+    "title": "JD Fields Storage Facility",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 56
+  },
+  {
+    "lat": "37.188934326171875",
+    "lng": "-77.465576171875",
+    "title": "JD Fields Storage Facility",
+    "type": "facility",
+    "ungrouped": "true",
+    "id": 57
+  }
+]
